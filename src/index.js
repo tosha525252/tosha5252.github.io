@@ -5,9 +5,18 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { HashRouter } from 'react-router-dom';
 
-<HashRouter>
-  <App />
-</HashRouter>
+// Source - https://stackoverflow.com/a/54428366
+// Posted by varoons
+// Retrieved 2026-06-02, License - CC BY-SA 4.0
+
+import BrowserRouter from 'react-router-dom/BrowserRouter'
+
+ReactDOM.render((
+   <BrowserRouter basename={process.env.PUBLIC_URL}>
+     <App />
+   </BrowserRouter>
+), ...)  
+
 
 ReactDOM.render(
   <React.StrictMode>
