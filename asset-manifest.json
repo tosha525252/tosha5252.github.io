@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/tosha5252.github.io/static/css/main.c0dcb876.css",
-    "main.js": "/tosha5252.github.io/static/js/main.ed25ed56.js",
+    "main.js": "/tosha5252.github.io/static/js/main.a5888940.js",
     "static/js/453.ace21015.chunk.js": "/tosha5252.github.io/static/js/453.ace21015.chunk.js",
     "static/media/about.png": "/tosha5252.github.io/static/media/about.96acd9b7b2a2cd3e4428.png",
     "static/media/home-main.png": "/tosha5252.github.io/static/media/home-main.1b9f8e9133cb924283d8.png",
+    "static/media/avatar.png": "/tosha5252.github.io/static/media/avatar.ae7af721cfaf79aa925f.png",
     "static/media/leaf.png": "/tosha5252.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/tosha5252.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/tosha5252.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -12,7 +13,6 @@
     "static/media/blog.png": "/tosha5252.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/chatify.png": "/tosha5252.github.io/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/Soumyajit_Behera.pdf": "/tosha5252.github.io/static/media/Soumyajit_Behera.0a483621860835f0c118.pdf",
-    "static/media/avatar.svg": "/tosha5252.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/go.svg": "/tosha5252.github.io/static/media/go.92167445712559696ed2cbe525706710.svg",
     "static/media/SQL.svg": "/tosha5252.github.io/static/media/SQL.52fc098126b8b29ddd950a944b5d0026.svg",
     "static/media/Mongo.svg": "/tosha5252.github.io/static/media/Mongo.330a0b8d252ae55ce72f3b6d60388b73.svg",
@@ -42,11 +42,11 @@
     "static/media/Haskell.svg": "/tosha5252.github.io/static/media/Haskell.e4b7b5b34e24fee7cd7a2a1f75b9550b.svg",
     "static/media/Firebase.svg": "/tosha5252.github.io/static/media/Firebase.c5e643a18f060de1d39eda5908abbb5f.svg",
     "main.c0dcb876.css.map": "/tosha5252.github.io/static/css/main.c0dcb876.css.map",
-    "main.ed25ed56.js.map": "/tosha5252.github.io/static/js/main.ed25ed56.js.map",
+    "main.a5888940.js.map": "/tosha5252.github.io/static/js/main.a5888940.js.map",
     "453.ace21015.chunk.js.map": "/tosha5252.github.io/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0dcb876.css",
-    "static/js/main.ed25ed56.js"
+    "static/js/main.a5888940.js"
   ]
 }
