@@ -9,14 +9,14 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi everyone! I’m <span className="purple">natosha caldwell</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            from <span className="purple">Dallas, Texas</span>.
             <br />
             I’m currently working as a{" "}
             <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            <span className="purple">Lucid Day for Monday</span>.
+            <br />I hold an Bachelor's Degree in{" "}
+            <span className="purple">Information Systems</span> from{" "}
+            <span className="purple">University of Texas at Arlington</span>.
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
