@@ -12,9 +12,9 @@ import { HashRouter } from 'react-router-dom';
 import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 ReactDOM.render((
-   <BrowserRouter basename={process.env.PUBLIC_URL}>
-     <App />
-   </BrowserRouter>
+  <BrowserRouter basename="/tosha5252.github.io">
+  <App />
+</BrowserRouter>
 ), ...)  
 
 
