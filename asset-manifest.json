@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tosha5252.github.io/static/css/main.79e53c90.css",
-    "main.js": "/tosha5252.github.io/static/js/main.d8784a5f.js",
+    "main.js": "/tosha5252.github.io/static/js/main.355cf9bc.js",
     "static/js/453.ace21015.chunk.js": "/tosha5252.github.io/static/js/453.ace21015.chunk.js",
     "static/media/about.png": "/tosha5252.github.io/static/media/about.96acd9b7b2a2cd3e4428.png",
     "static/media/logo.png": "/tosha5252.github.io/static/media/logo.c4698fab0b592676697c.png",
@@ -12,7 +12,7 @@
     "static/media/suicide.png": "/tosha5252.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/Natosha_Caldwell.pdf": "/tosha5252.github.io/static/media/Natosha_Caldwell.63cd6d5782519e2e04f3.pdf",
     "static/media/codeEditor.png": "/tosha5252.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/tosha5252.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/blueforge.png": "/tosha5252.github.io/static/media/blueforge.fb8ab7f271a937d5fc01.png",
     "static/media/chatify.png": "/tosha5252.github.io/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/go.svg": "/tosha5252.github.io/static/media/go.92167445712559696ed2cbe525706710.svg",
     "static/media/SQL.svg": "/tosha5252.github.io/static/media/SQL.52fc098126b8b29ddd950a944b5d0026.svg",
@@ -43,11 +43,11 @@
     "static/media/Haskell.svg": "/tosha5252.github.io/static/media/Haskell.e4b7b5b34e24fee7cd7a2a1f75b9550b.svg",
     "static/media/Firebase.svg": "/tosha5252.github.io/static/media/Firebase.c5e643a18f060de1d39eda5908abbb5f.svg",
     "main.79e53c90.css.map": "/tosha5252.github.io/static/css/main.79e53c90.css.map",
-    "main.d8784a5f.js.map": "/tosha5252.github.io/static/js/main.d8784a5f.js.map",
+    "main.355cf9bc.js.map": "/tosha5252.github.io/static/js/main.355cf9bc.js.map",
     "453.ace21015.chunk.js.map": "/tosha5252.github.io/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79e53c90.css",
-    "static/js/main.d8784a5f.js"
+    "static/js/main.355cf9bc.js"
   ]
 }
