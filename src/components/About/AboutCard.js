@@ -15,7 +15,7 @@ function AboutCard() {
             <span className="pink">Software Developer</span> at{" "}
             <span className="pink">Lucid Day for Monday</span>.
             <br />I hold an Bachelor's Degree in{" "}
-            <span className="pink">Information Systems</span> from{" "}
+            <span className="pink">Information Systems Engineering</span> from{" "}
             <span className="pink">University of Texas at Arlington</span>.
             <br />
             <br />
@@ -28,17 +28,20 @@ function AboutCard() {
               <ImPointRight /> Playing Games 🎮
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Reading Lots and Lots of Books 📚
             </li>
             <li className="about-activity">
               <ImPointRight /> Traveling and Exploring New Places 🌍
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          <p style={{ color: "rgb(253, 114, 183)" }}>
+            "If you don't find a solution, create one!"{" "}
           </p>
-          <footer className="blockquote-footer">Natosha</footer>
+          <footer
+  className="blockquote-footer"
+  style={{ color: "#ff69b4" }}
+>Natosha</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -13,10 +13,12 @@ function Home2() {
               LET ME <span className="pink"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a Software Engineer who loves transforming ideas into reliable, scalable products.
+               Over time, I’ve explored several technologies and found my 
+               passion in solving pain points for businesses by building
+                practical software, intelligent automations, and custom
+                 integrations that eliminate repetitive work and improve
+                  productivity.
               <br />
               <br />
               I’m proficient in
@@ -33,10 +35,10 @@ function Home2() {
               <i>
                 <b className="pink">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, CRM and ERP System solutions,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and exploring new ways to integrate and enhance business processes.
               <br />
               <br />
               Whenever possible, I love building projects with
