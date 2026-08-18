@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tosha5252.github.io/static/css/main.87eb7aca.css",
-    "main.js": "/tosha5252.github.io/static/js/main.4ba61349.js",
+    "main.js": "/tosha5252.github.io/static/js/main.c221b952.js",
     "static/js/453.ace21015.chunk.js": "/tosha5252.github.io/static/js/453.ace21015.chunk.js",
     "static/media/about.png": "/tosha5252.github.io/static/media/about.96acd9b7b2a2cd3e4428.png",
     "static/media/logo.png": "/tosha5252.github.io/static/media/logo.c4698fab0b592676697c.png",
@@ -43,11 +43,11 @@
     "static/media/Haskell.svg": "/tosha5252.github.io/static/media/Haskell.e4b7b5b34e24fee7cd7a2a1f75b9550b.svg",
     "static/media/Firebase.svg": "/tosha5252.github.io/static/media/Firebase.c5e643a18f060de1d39eda5908abbb5f.svg",
     "main.87eb7aca.css.map": "/tosha5252.github.io/static/css/main.87eb7aca.css.map",
-    "main.4ba61349.js.map": "/tosha5252.github.io/static/js/main.4ba61349.js.map",
+    "main.c221b952.js.map": "/tosha5252.github.io/static/js/main.c221b952.js.map",
     "453.ace21015.chunk.js.map": "/tosha5252.github.io/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87eb7aca.css",
-    "static/js/main.4ba61349.js"
+    "static/js/main.c221b952.js"
   ]
 }
